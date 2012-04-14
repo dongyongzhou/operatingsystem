@@ -3,6 +3,35 @@ layout: master
 title: Operating System
 ---
 
+## Knowledge
+
+* [Operating System Concept](document/os-concept.html)
+
+## Developing
+
+### Lab
+
+## Schedule
+
+### Take Course
+
+#### Operating Systems and Systems Programming 
+
++ 2012-4-10: Lecture01.What.is.an.Operating.System: done
++ 2012-4-11£ºLecture02.Operating.Systems.Structures: done
++ 2012-4-11£ºLecture03.Concurrency.Processes.Threads.and.Address.Spaces: done
++ 2012-4-12£ºLecture04.Thread.Dispatching: done
+
+#### 6.828: Operating System Engineering 
+
+To be continue
+
+### Read Books
+
+#### Operating System Concepts 
+
+To be continue
+
 ## Reference
 
 ### Course
@@ -21,35 +50,6 @@ Eight Edition
 Avi Silberschatz, Peter Baer Galvin, Greg Gagne
 
 * [The Linux Kernel](http://www.tldp.org/LDP/tlk/tlk.html)  
-
-## Schedule
-
-### Take Course
-
-#### Operating Systems and Systems Programming 
-
-+2012-4-10: Lecture01.What.is.an.Operating.System: done
-+2012-4-11£ºLecture02.Operating.Systems.Structures: done
-+2012-4-11£ºLecture03.Concurrency.Processes.Threads.and.Address.Spaces: done
-+2012-4-12£ºLecture04.Thread.Dispatching: done
-
-#### 6.828: Operating System Engineering 
-
-To be continue
-
-### Read Books
-
-#### Operating System Concepts 
-
-To be continue
-
-## Knowledge
-
-* [Operating System Concept](document/os-concept.html)
-
-## Developing
-
-### Lab
 
 ## Others
 
